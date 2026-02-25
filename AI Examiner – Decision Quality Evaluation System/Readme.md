@@ -42,7 +42,7 @@ The system analyzes evaluation patterns and predicts quality classification.
 - F1 Score: XX%
 - Precision: XX%
 
-(Screenshot/scr1)
+![](Screenshot/scr1.png)
 
 ---
 
